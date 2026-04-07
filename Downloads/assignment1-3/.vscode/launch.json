@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ogbum/Desktop/COMP 2404 assignment 1",
+      "program": "/Users/ogbum/Desktop/COMP 2404 assignment 1/build/Debug/outDebug"
+    }
+  ]
+}
